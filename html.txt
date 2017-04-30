@@ -1,0 +1,20 @@
+Html statik web səhifələrin yaradılması üçün istifadə olunur.
+Html və onun digər versiyaları arasında fərqlər vardır.
+Html5 5-ci versiyası olub,html-in daha da təkmilləşdirilmiş versiyasıdı,imkanları daha genişdir.
+Html5 video və audio tagları ilə html-ə nisbətən  daha yararlıdır.
+Bundan əlavə html yalnız statik veb səhifələrin yaradılmasında,
+Html5 isə həm statik həm də,dinamik veb səhifələrin yaradılmasında istifadə olunur.
+Html5 html və html4 ilə uyğun gəlir.
+Html5-in yeni özəllikləri html,css,javascriptdə istifadə olunur.
+Html5 və Html4 arasında da,müəyyən fərqlər vardır:
+
+  Html4 bütün veb brouserlər tərəfindən dəstəklənir,
+  html5 isə hələ bütün veb brauserlər tərəfindən dəstəklənmir.
+  Html4-də videoların nümayişi üçün Flaş kimi ayrı bir proqrama ehtiyyac duyulur,
+  html5-də isə bunun üçün hər hansı xarici proqrama ehtiyyac duyulmur.
+  
+  Xhtml html və xml arasında bir körğü rolnu oynayır.
+  Xhtml daha cox html 4 üçün istifadə olunur.
+  Xhtml-i genişləndirilmiş html kimidə dəyərləndirmək olar.
+  Html5 bütün html versiyaları ilə uyğundur.
+  
